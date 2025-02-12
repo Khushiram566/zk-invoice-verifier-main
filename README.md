@@ -1,4 +1,4 @@
-# BlockInvoice - A zkVerify-Powered Web3 Invoice System
+# 🔐✅ BlockInvoice - A zkVerify-Powered Web3 Invoice System
 
 ## 🚀 Introduction
 
@@ -45,7 +45,7 @@ BlockInvoice integrates **zkVerify** to generate zero-knowledge proofs (ZK proof
 
 Follow these steps to set up BlockInvoice locally:
 
-### **1. Install Circom & SnarkJS**
+### **1. Install Circom**
 
 ```sh
 # Install Rust for Circom
@@ -126,8 +126,9 @@ snarkjs zkey export solidityverifier multiplier2_0001.zkey verifier.sol
 
 ## 📧 Contact & Support
 
-Have questions? Reach out at g381412\@gmail.com
+Have questions? Reach out at [g381412@gmail.com](mailto:g381412@gmail.com)
 
 
 
 Made with ❤️ for the zkVerify Web3 Hackathon! 🚀
+
